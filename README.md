@@ -9,7 +9,7 @@ Python / SQL / Tableau / VBA / Linux
 
 Autotrader.co.uk web scraping app:            
 
- <a href"https://github.com/liamjblair/autotradervaluationapp">
+ <a href="https://github.com/liamjblair/autotradervaluationapp">
   <img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>            
 <a/>
 
