@@ -8,4 +8,4 @@ Python / SQL / Tableau / VBA / Linux
 ## Projects
 
 Autotrader web scraping
-<iframe src="https://giphy.com/embed/IwTWTsUzmIicM" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-surfing-IwTWTsUzmIicM">via GIPHY</a></p>
+<img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="256"/>
