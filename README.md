@@ -9,7 +9,9 @@ Python / SQL / Tableau / VBA / Linux
 
 Autotrader.co.uk web scraping app:            
 
-<img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>            
+ <a href"https://github.com/liamjblair/autotradervaluationapp">
+  <img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>            
+<a/>
 
 Repeat prescripton automation app:
 
