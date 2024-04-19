@@ -7,6 +7,6 @@ Python / SQL / Tableau / VBA / Linux
 
 ## Projects
 
-Autotrader web scraping app:
+Autotrader.co.uk web scraping app:
 
 <img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>
