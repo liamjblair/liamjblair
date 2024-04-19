@@ -13,4 +13,4 @@ Autotrader.co.uk web scraping app:
 
 Repeat prescripton automation app:
 
-<img src="https://github.com/liamjblair/liamjblair/blob/main/doctor.gif" wigth="100">
+<img src="https://github.com/liamjblair/liamjblair/blob/main/doctor.gif" width="220">
