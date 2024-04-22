@@ -1,6 +1,6 @@
 # Liam Blair
 
-I am Liam from Scotland. I am a passionate data developer with a consistent drive to make things easier and more efficient!
+Hi, welcome to my small corner of the Git-verse where I like to share my personal projects and learning journey! I am Liam from Scotland. I am a passionate data developer with a consistent drive to make things easier and more efficient!
 
 ## Skills and Experience
 Python / SQL / Tableau / VBA / Linux
@@ -13,7 +13,7 @@ Autotrader.co.uk web scraping app:
   <img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>            
 <a/>
 
-Repeat prescripton automation app:
+Repeat prescripton automation app (upcoming):
 
 <img src="https://github.com/liamjblair/liamjblair/blob/main/doctor.gif" width="220">
 
