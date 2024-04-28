@@ -13,6 +13,12 @@ Autotrader.co.uk web scraping app:
   <img src="https://github.com/liamjblair/liamjblair/blob/main/giphy.gif" width="220"/>            
 <a/>
 
+Autotrader ETL pipeline
+
+ <a href="https://github.com/liamjblair/autotrader_etl_pipeline">
+  <img src="https://github.com/liamjblair/liamjblair/blob/main/engineering.gif" width="220"/>            
+<a/>
+
 Repeat prescripton automation app (upcoming):
 
 <img src="https://github.com/liamjblair/liamjblair/blob/main/doctor.gif" width="220">
