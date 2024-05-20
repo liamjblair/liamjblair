@@ -15,7 +15,7 @@ Autotrader.co.uk web scraping app:
 
 Autotrader ETL pipeline:
 
- <a href="https://github.com/liamjblair/autotrader_etl_pipeline">
+ <a href="https://github.com/liamjblair/repeat_prescription_automation">
   <img src="https://github.com/liamjblair/liamjblair/blob/main/engineering.gif" width="220"/>            
 <a/>
 
